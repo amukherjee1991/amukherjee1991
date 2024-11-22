@@ -1,5 +1,27 @@
-# 💫 About Me:
-I am Arghya Mukherjee, a dedicated Data Scientist and AI Engineer based in Tulsa, Oklahoma, with a proven track record of leveraging advanced data engineering, econometrics, computer vision, and generative AI to deliver transformative solutions. Holding a PhD in Computer Science from the University of Tulsa, I specialize in designing scalable data pipelines, implementing robust machine learning models, and driving impactful data-driven strategies.<br><br>With experience across diverse roles, from developing algorithms to automate resume matching to building generative AI models that streamline job description creation, I excel at bridging the gap between technical innovation and real-world application. My work spans academia and industry, encompassing AI-powered solutions for recruiters, scalable video data pipelines, and advanced predictive models in blockchain ecosystems.<br><br>Passionate about collaboration and innovation, I thrive in dynamic environments that require cross-functional teamwork and creative problem-solving. Beyond technical expertise, I am committed to making data actionable and insights meaningful, driving measurable outcomes for organizations.<br><br>In my free time, I enjoy exploring the intersection of cybersecurity and economics, contributing to open-source projects, and mentoring aspiring data professionals.
+👋 Hi there! I’m Arghya Mukherjee 🌟
+📍 Based in: Tulsa, Oklahoma, USA
+🎓 Education: PhD in Computer Science from the University of Tulsa 🎉
+
+💻 What I Do:
+I'm a Data Scientist & AI Engineer 🧠💻 with expertise in:
+
+📊 Data Engineering: Building and optimizing scalable data pipelines 🚀
+🧮 Econometrics: Uncovering insights with advanced analytics 🔎
+🤖 Generative AI & Computer Vision: Creating innovative models that transform industries 🌟
+💡 My Superpowers:
+
+Automating resume matching using AI to save time ⏳ for recruiters 💼
+Developing job description generators with GenAI, boosting efficiency ⚡ by 70%
+Leading teams to build AI-driven chatbots 🤖 for smarter hiring processes
+Researching and optimizing blockchain data pipelines 🔗
+✨ What I’m Passionate About:
+I thrive on solving complex problems 🧩 with cross-functional collaboration 🤝, making data actionable 📈, and delivering meaningful insights 🌟. I also love bridging the worlds of cybersecurity 🔐 and economics 💰 to make smarter, safer systems.
+
+🌱 Fun Fact: When I’m not coding, I enjoy exploring emerging technologies 🛰️, contributing to open-source projects 🌐, and mentoring aspiring data professionals 👨‍🏫.
+
+🌟 Let’s connect and create something amazing! 🚀
+
+
 
 
 ## 🌐 Socials:

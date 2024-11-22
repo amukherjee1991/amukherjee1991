@@ -3,19 +3,33 @@
 🎓 Education: PhD in Computer Science from the University of Tulsa 🎉
 
 💻 What I Do:
-I'm a Data Scientist & AI Engineer 🧠💻 with expertise in:
+I'm a Data Scientist, AI Engineer, and Researcher 🧠💻 with expertise in:
 
-📊 Data Engineering: Building and optimizing scalable data pipelines 🚀
-🧮 Econometrics: Uncovering insights with advanced analytics 🔎
-🤖 Generative AI & Computer Vision: Creating innovative models that transform industries 🌟
+📊 Risk Management & Cybersecurity: Enhancing system resilience against threats 🔐
+💰 Cryptocurrency Ecosystems: Studying failures, pump-and-dump schemes 🚀, and exchange closures
+🧮 Generative AI & Data Science: Creating models that transform industries 🌟
 💡 My Superpowers:
 
-Automating resume matching using AI to save time ⏳ for recruiters 💼
-Developing job description generators with GenAI, boosting efficiency ⚡ by 70%
-Leading teams to build AI-driven chatbots 🤖 for smarter hiring processes
-Researching and optimizing blockchain data pipelines 🔗
+Automating resume matching with AI to save time ⏳ for recruiters 💼
+Designing predictive models to mitigate cryptocurrency risks 📉
+Publishing groundbreaking research 🧑‍🔬 in top-tier journals and conferences 📜
+🖋️ Research Highlights:
+I am passionate about understanding and addressing failures in the cryptocurrency ecosystem, with research published in high-impact journals and conferences. Here are some highlights:
+
+📜 Selected Publications:
+
+An Examination of the Cryptocurrency Pump-and-Dump Ecosystem (2021) – Cited by 79 🔍
+The Economics of Cryptocurrency Pump-and-Dump Schemes (2019) – Cited by 59 💰
+Cryptocurrency Exchange Closure Revisited (2022) – Insights into exchange failures 🚫
+HICSS 2025: The Impact of Cryptocurrency Scams on Markets – My latest research 🔗
 ✨ What I’m Passionate About:
-I thrive on solving complex problems 🧩 with cross-functional collaboration 🤝, making data actionable 📈, and delivering meaningful insights 🌟. I also love bridging the worlds of cybersecurity 🔐 and economics 💰 to make smarter, safer systems.
+I thrive on solving complex problems 🧩 with cross-functional collaboration 🤝, making data actionable 📈, and delivering meaningful insights 🌟. I also enjoy bridging the worlds of cybersecurity 🔐 and economics 💰 to make smarter, safer systems.
+
+🌱 Fun Fact: When I’m not coding, I enjoy exploring emerging technologies 🛰️, contributing to open-source projects 🌐, and mentoring aspiring data professionals 👨‍🏫.
+
+🌟 Let’s connect and create something amazing! 🚀
+
+
 
 🌱 Fun Fact: When I’m not coding, I enjoy exploring emerging technologies 🛰️, contributing to open-source projects 🌐, and mentoring aspiring data professionals 👨‍🏫.
 

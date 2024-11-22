@@ -8,6 +8,7 @@ I'm a Data Scientist, AI Engineer, and Researcher 🧠💻 with expertise in:
 📊 Risk Management & Cybersecurity: Enhancing system resilience against threats 🔐
 💰 Cryptocurrency Ecosystems: Studying failures, pump-and-dump schemes 🚀, and exchange closures
 🧮 Generative AI & Data Science: Creating models that transform industries 🌟
+
 💡 My Superpowers:
 
 Automating resume matching with AI to save time ⏳ for recruiters 💼

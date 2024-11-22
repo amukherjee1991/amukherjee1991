@@ -1,4 +1,4 @@
-👋 Hi there! I’m Arghya Mukherjee 🌟
+# 👋 Hi there! I’m Arghya Mukherjee 🌟
 📍 Based in: Tulsa, Oklahoma, USA
 🎓 Education: PhD in Computer Science from the University of Tulsa 🎉
 

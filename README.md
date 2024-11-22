@@ -19,10 +19,14 @@ I am passionate about understanding and addressing failures in the cryptocurrenc
 
 📜 Selected Publications:
 
-An Examination of the Cryptocurrency Pump-and-Dump Ecosystem (2021) – Cited by 79 🔍
-The Economics of Cryptocurrency Pump-and-Dump Schemes (2019) – Cited by 59 💰
+An Examination of the Cryptocurrency Pump-and-Dump Ecosystem (2021) 🔍
+
+The Economics of Cryptocurrency Pump-and-Dump Schemes (2019) 💰
+
 Cryptocurrency Exchange Closure Revisited (2022) – Insights into exchange failures 🚫
+
 HICSS 2025: The Impact of Cryptocurrency Scams on Markets – My latest research 🔗
+
 ✨ What I’m Passionate About:
 I thrive on solving complex problems 🧩 with cross-functional collaboration 🤝, making data actionable 📈, and delivering meaningful insights 🌟. I also enjoy bridging the worlds of cybersecurity 🔐 and economics 💰 to make smarter, safer systems.
 

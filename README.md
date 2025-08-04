@@ -10,7 +10,7 @@ I'm a Data Scientist, AI Engineer, and Researcher 🧠💻 with expertise in:
 🧮 Generative AI & Data Science: Creating models that transform industries 🌟
 
 💡 My Superpowers:
-
+Comouter Vison: Convulational Neural Network, Yolo
 Automating resume matching with AI to save time ⏳ for recruiters 💼
 Designing predictive models to mitigate cryptocurrency risks 📉
 Publishing groundbreaking research 🧑‍🔬 in top-tier journals and conferences 📜
